@@ -1,7 +1,7 @@
 const DigitalClock = () => {
   return (
     <>
-    <div className="flip-clock-container d-flex justify-content-center align-items-center vh-100 bg-dark">
+    <div className="flip-clock-container d-flex justify-content-center align-items-center vh-100">
       <div className="flip-clock">
         {/* Hours */}
         <div className="panel"><span className="number">1</span></div>
