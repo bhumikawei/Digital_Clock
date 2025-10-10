@@ -1,11 +1,13 @@
 
 import './App.css'
+import DigitalClock from './Components/DigitalClock'
 
 function App() {
   return(
-    <>
-    <h1>React</h1>
-    </>
+    <center>
+    <h1>Digital Clock</h1>
+    <DigitalClock/>
+    </center>
   )
 }
 
